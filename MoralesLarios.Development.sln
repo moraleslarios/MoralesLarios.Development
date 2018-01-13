@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoralesLarios.Development", "MoralesLarios.Development\MoralesLarios.Development.csproj", "{C2DA6E0B-7A7D-402C-B4F9-FF2D6589AF52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoralesLarios.Development.Tests", "MoralesLarios.Development.Tests\MoralesLarios.Development.Tests.csproj", "{933B6C4A-7803-457C-8229-4E7DBAD22ED8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoralesLarios.CodeComun", "MoralesLarios.CodeComun\MoralesLarios.CodeComun.csproj", "{37693994-15AE-42C4-AD89-5DBD03F47DE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoralesLarios.CodeComun.Tests", "MoralesLarios.CodComun.Tests\MoralesLarios.CodeComun.Tests.csproj", "{CC998E02-A64E-499F-AD98-855A66072FB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTests", "ConsoleTests\ConsoleTests.csproj", "{45262F27-A3E0-4454-B345-179F9DCD3E4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2DA6E0B-7A7D-402C-B4F9-FF2D6589AF52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2DA6E0B-7A7D-402C-B4F9-FF2D6589AF52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2DA6E0B-7A7D-402C-B4F9-FF2D6589AF52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2DA6E0B-7A7D-402C-B4F9-FF2D6589AF52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{933B6C4A-7803-457C-8229-4E7DBAD22ED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{933B6C4A-7803-457C-8229-4E7DBAD22ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{933B6C4A-7803-457C-8229-4E7DBAD22ED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{933B6C4A-7803-457C-8229-4E7DBAD22ED8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37693994-15AE-42C4-AD89-5DBD03F47DE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37693994-15AE-42C4-AD89-5DBD03F47DE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37693994-15AE-42C4-AD89-5DBD03F47DE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37693994-15AE-42C4-AD89-5DBD03F47DE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC998E02-A64E-499F-AD98-855A66072FB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC998E02-A64E-499F-AD98-855A66072FB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC998E02-A64E-499F-AD98-855A66072FB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC998E02-A64E-499F-AD98-855A66072FB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45262F27-A3E0-4454-B345-179F9DCD3E4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45262F27-A3E0-4454-B345-179F9DCD3E4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45262F27-A3E0-4454-B345-179F9DCD3E4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45262F27-A3E0-4454-B345-179F9DCD3E4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {678C5643-D10D-4F49-8C29-D57959438867}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://moraleslarios.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ConsoleTests\\ConsoleTests.csproj
+		SccProjectName1 = ConsoleTests
+		SccLocalPath1 = ConsoleTests
+		SccProjectUniqueName2 = MoralesLarios.CodComun.Tests\\MoralesLarios.CodeComun.Tests.csproj
+		SccProjectName2 = MoralesLarios.CodComun.Tests
+		SccLocalPath2 = MoralesLarios.CodComun.Tests
+		SccProjectUniqueName3 = MoralesLarios.CodeComun\\MoralesLarios.CodeComun.csproj
+		SccProjectName3 = MoralesLarios.CodeComun
+		SccLocalPath3 = MoralesLarios.CodeComun
+		SccProjectUniqueName4 = MoralesLarios.Development.Tests\\MoralesLarios.Development.Tests.csproj
+		SccProjectName4 = MoralesLarios.Development.Tests
+		SccLocalPath4 = MoralesLarios.Development.Tests
+		SccProjectUniqueName5 = MoralesLarios.Development\\MoralesLarios.Development.csproj
+		SccProjectName5 = MoralesLarios.Development
+		SccLocalPath5 = MoralesLarios.Development
+	EndGlobalSection
+EndGlobal
