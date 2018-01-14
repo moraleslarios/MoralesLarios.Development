@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>MoralesLarios.Development</id>
-    <version>1.0.0.0</version>
+    <version>1.0.0.1</version>
     <title>DotNet Development Utilities</title>
     <authors>Juan Francisco Morales Larios</authors>
     <owners>Juan Francisco Morales Larios</owners>
@@ -13,5 +13,8 @@
     <releaseNotes>Version 1.0</releaseNotes>
     <copyright>Copyright 2017</copyright>
     <tags>Morales Larios MoralesLarios DotNet Development Utilities. Autoreader AppConfig file.</tags>
+	<frameworkAssemblies>
+        <frameworkAssembly assemblyName="System.Configuration"  />
+    </frameworkAssemblies>
   </metadata>
 </package>
