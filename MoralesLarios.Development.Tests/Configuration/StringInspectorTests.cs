@@ -1,11 +1,6 @@
 ﻿using MoralesLarios.Development.Configuration;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Xunit;
-using MoralesLarios.Development.Helper;
 
 namespace MoralesLarios.Development.Tests.Configuration
 {
