@@ -1,5 +1,5 @@
 ﻿using System;
-using MoralesLarios.CodeComun;
+using MoralesLarios.Development.Helper;
 using System.Collections.Generic;
 
 namespace MoralesLarios.Development.Configuration

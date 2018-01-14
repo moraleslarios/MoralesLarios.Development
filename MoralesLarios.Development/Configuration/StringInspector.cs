@@ -3,8 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using MoralesLarios.CodeComun;
-using MoralesLarios.CodeComun.Helper;
+using MoralesLarios.Development.Helper;
 
 namespace MoralesLarios.Development.Configuration
 {

@@ -83,10 +83,6 @@
     <Service Include="{82A7F48D-3B50-4B1E-B82E-3ADA8210C358}" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MoralesLarios.CodeComun\MoralesLarios.CodeComun.csproj">
-      <Project>{37693994-15ae-42c4-ad89-5dbd03f47de5}</Project>
-      <Name>MoralesLarios.CodeComun</Name>
-    </ProjectReference>
     <ProjectReference Include="..\MoralesLarios.Development\MoralesLarios.Development.csproj">
       <Project>{c2da6e0b-7a7d-402c-b4f9-ff2d6589af52}</Project>
       <Name>MoralesLarios.Development</Name>

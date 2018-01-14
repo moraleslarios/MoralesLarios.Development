@@ -5,7 +5,7 @@ using System.Dynamic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using MoralesLarios.CodeComun;
+using MoralesLarios.Development.Helper;
 
 namespace MoralesLarios.Development.Configuration
 {

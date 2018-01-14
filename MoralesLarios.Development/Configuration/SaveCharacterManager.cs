@@ -1,7 +1,7 @@
 ﻿namespace MoralesLarios.Development
 {
     using System;
-    using MoralesLarios.CodeComun;
+    using MoralesLarios.Development.Helper;
 
 
 

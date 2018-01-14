@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Xunit;
-using MoralesLarios.CodeComun.Helper;
+using MoralesLarios.Development.Helper;
 
 namespace MoralesLarios.Development.Tests.Configuration
 {

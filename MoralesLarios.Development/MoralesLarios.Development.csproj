@@ -56,17 +56,13 @@
     <Compile Include="Configuration\ElementaryConfigReader.cs" />
     <Compile Include="Configuration\DynamicPropertiesCreator.cs" />
     <Compile Include="Configuration\IDynamicPropertiesCreator.cs" />
+    <Compile Include="Helper\Extensions.cs" />
+    <Compile Include="Helper\ParameterValidator.cs" />
     <Compile Include="Reflection\IMLActivator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Configuration\SaveCharacterManager.cs" />
     <Compile Include="Configuration\SaveCharacterResult.cs" />
     <Compile Include="Reflection\MLActivator.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\MoralesLarios.CodeComun\MoralesLarios.CodeComun.csproj">
-      <Project>{37693994-15ae-42c4-ad89-5dbd03f47de5}</Project>
-      <Name>MoralesLarios.CodeComun</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
